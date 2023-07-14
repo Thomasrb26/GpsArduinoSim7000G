@@ -1,14 +1,3 @@
-# GpsArduinoSim7000G
-Codigo de configuración en arduino
-
-La configuración esta hecha con un SIM de la compañia Entel.
-Debe cambiar las configuraciones en el codigo.
----
------------
------------
-
-
-
 //Define Serial1 Name
 #define SIM7000 Serial1
 
